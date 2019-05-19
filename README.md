@@ -1,2 +1,2 @@
 # grew-ranch
-Compiled infos aboutthe assitanceo n grew-ranch
+Compiled infos aboutthe assitance on grew-ranch
